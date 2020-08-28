@@ -1,0 +1,125 @@
+nav{
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+.menu{
+  display: block;
+  float: left;
+  color: white;
+  padding: 1em;
+  font-size: 1.6em;
+  
+}
+#menu{
+ width: 35%;
+margin-left: auto;
+margin-right: auto; 
+}
+#lewo{
+  float: left;
+  width: 79%;
+  height: 700px;
+  background-color: turquoise;
+}
+#prawo{
+  float: right;
+  width: 20%;
+  background-color:wheat ;
+  height: 700px;
+}
+#nas{
+  float: right;
+  width: 40%;
+  height: 400px;
+  background-color: turquoise;
+}
+.nas{
+  float: right;
+}
+.pasek{
+  float: left;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  color: white;
+}
+#pasek1{
+  width: 100%;
+  background-color: black;
+  height: 80px;
+  float: left;
+  color: white;
+  text-align: center;
+}
+#pasek2{
+  width: 100%;
+  background-color: black;
+  height: 200px;
+  float: left;
+}
+#container{
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 50%;
+}
+#blog{
+  float: left;
+  width: 70%;
+  height: 600px;
+  background-color: yellow;
+  position: relative;
+}
+#zdj{
+  float: left;
+  padding: 20px;
+  width: 35%;
+}
+#tekst{
+  float: left;
+  background-color: white;
+  background-color: aqua;
+}
+#link{
+  font-size: medium;
+}
+#kontakt{
+  width: 60%;
+  height: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: gray;
+  clear: both;
+}
+#form{
+  text-align: center;
+  margin: 20px;
+  background-color: white;
+  margin-top: 20px;
+  
+
+}
+.formatka{
+  padding: 20px;
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid black;
+
+}
+#formatka{
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+#przycisk{
+  margin-top: 50px;
+  padding: 40px;
+  font-size: large;
+  background-color: cadetblue;
+}
+.h1{
+  padding: 20px;
+  text-align: center;
+}
